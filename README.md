@@ -33,6 +33,3 @@ The script contains implementations of tokenization and encoding functions for U
 
 The script utilizes concepts and techniques from natural language processing and Unicode encoding. Special thanks to the creators of the `tiktoken` library for providing tokenization support.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
