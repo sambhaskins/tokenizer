@@ -1,0 +1,6 @@
+# Ignore everything by default
+*
+
+# But keep track of these specific patterns:
+!*.ipynb
+!.gitignore
